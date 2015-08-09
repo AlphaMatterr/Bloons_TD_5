@@ -1,0 +1,9 @@
+Package: com.alphaMatterr.bloonstd5
+Name: Bloons TD 5 Hack (All Versions)
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bloons TD 5 - Infinite Monkey Money and Tokens
+Maintainer: alphaMatterr
+Author: alphaMatterr
+Section: Tweaks
